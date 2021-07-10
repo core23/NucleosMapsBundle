@@ -8,7 +8,7 @@ export default class extends Controller {
         longitude: Number,
         zoom: Number,
         height: Number,
-        title: Boolean,
+        title: String,
         icon: String,
         apiKey: String,
     };
@@ -20,9 +20,6 @@ export default class extends Controller {
         scaleControl: false,
         draggable: false,
         scrollwheel: false,
-        title: false,
-        icon: false,
-        apiKey: '',
     };
 
     connect() {
