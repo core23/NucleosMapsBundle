@@ -2,27 +2,31 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 3.4.0 - TBD
+## 3.4.0 - 2024-08-14
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [3.4.0](https://github.com/nucleos/NucleosMapsBundle/milestone/17)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 3.4.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **5**
+- Total contributors: **3**
 
-### Removed
+#### Enhancement
 
-- Nothing.
+ - [918: Fix symfony deprecation](https://github.com/nucleos/NucleosMapsBundle/pull/918) thanks to @core23
 
-### Fixed
+#### dependency
 
-- Nothing.
+ - [916: Update dependency sass-loader to v16](https://github.com/nucleos/NucleosMapsBundle/pull/916) thanks to @renovate[bot]
+ - [914: Bump ws from 7.5.9 to 7.5.10 in /assets](https://github.com/nucleos/NucleosMapsBundle/pull/914) thanks to @dependabot[bot]
+ - [912: Update frontend dependencies](https://github.com/nucleos/NucleosMapsBundle/pull/912) thanks to @core23
+ - [901: Update dependency psalm/plugin-phpunit to ^0.19](https://github.com/nucleos/NucleosMapsBundle/pull/901) thanks to @renovate[bot]
 
 ## 3.3.0 - 2024-02-04
 
